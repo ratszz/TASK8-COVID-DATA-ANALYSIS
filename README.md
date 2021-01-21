@@ -6,4 +6,6 @@ To run a streamlit project, Just open the .py file through a python editor(I hav
 
 Also, I've used Plotly for the various visualizations in the Dashboard.
 
+I've also uploaded a pdf file that contains all the images of the dashboard.
+
 Dataset can be downloaded through this link: https://covid.ourworldindata.org/data/owid-covid-data.csv
